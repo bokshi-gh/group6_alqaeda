@@ -1,7 +1,7 @@
 class ExtendHello{
 	public static void main(String[] args){
-		System.out.println("Hello World!");
-		System.out.println("This is my first program");
-		System.out.println("I am on module ST4003CEM");
+		System.out.print("Hello World!\n");
+		System.out.print("This is my first program\n");
+		System.out.print("I am on module ST4003CEM\n");
 	}
 }
