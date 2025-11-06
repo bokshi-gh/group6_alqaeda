@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FizzBuzz",
+            "request": "launch",
+            "mainClass": "FizzBuzz",
+            "projectName": "group6_alqaeda_c6f9bef9"
+        },
+        {
+            "type": "java",
+            "name": "RightAngleTrianglePattern",
+            "request": "launch",
+            "mainClass": "RightAngleTrianglePattern",
+            "projectName": "group6_alqaeda_c6f9bef9"
+        },
+        {
+            "type": "java",
             "name": "RectanglePattern",
             "request": "launch",
             "mainClass": "RectanglePattern",

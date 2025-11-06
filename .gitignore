@@ -4,3 +4,6 @@
 
 # ignore java bytecode
 *.class
+
+# ignore vscode configuration
+# .vscode/
