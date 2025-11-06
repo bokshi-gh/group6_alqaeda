@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SkipAndDouble",
+            "request": "launch",
+            "mainClass": "SkipAndDouble",
+            "projectName": "group6_alqaeda_c6f9bef9"
+        },
+        {
+            "type": "java",
             "name": "SumAndProduct",
             "request": "launch",
             "mainClass": "SumAndProduct",
