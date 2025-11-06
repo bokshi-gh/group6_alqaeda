@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ATM",
+            "request": "launch",
+            "mainClass": "ATM",
+            "projectName": "group6_alqaeda_c6f9bef9"
+        },
+        {
+            "type": "java",
             "name": "ExtendHello",
             "request": "launch",
             "mainClass": "ExtendHello",
