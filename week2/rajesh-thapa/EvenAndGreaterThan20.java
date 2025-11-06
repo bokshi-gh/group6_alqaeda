@@ -8,7 +8,7 @@ public class EvenAndGreaterThan20 {
             System.out.print("Enter number: ");
             int number = scanner.nextInt();
 
-            if((number & 1) == 0 && number > 20) System.out.println("Number \"" + number + " \"is even and greater than 20");
+            if ((number & 1) == 0 && number > 20) System.out.println("Number \"" + number + " \"is even and greater than 20");
         }
 
         scanner.close();

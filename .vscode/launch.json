@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExtendHello",
+            "request": "launch",
+            "mainClass": "ExtendHello",
+            "projectName": "group6_alqaeda_c6f9bef9"
+        },
+        {
+            "type": "java",
             "name": "SkipAndDouble",
             "request": "launch",
             "mainClass": "SkipAndDouble",

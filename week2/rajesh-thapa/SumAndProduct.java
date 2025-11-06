@@ -3,8 +3,8 @@ public class SumAndProduct {
         int sum = 0;
         int product = 1;
 
-        for(int i = 1; i <= 10; i++){
-            if((i & 1) == 0) sum += i;
+        for (int i = 1; i <= 10; i++) {
+            if ((i & 1) == 0) sum += i;
             else product *= i;
         }
 
