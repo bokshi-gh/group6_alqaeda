@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SumAndProduct",
+            "request": "launch",
+            "mainClass": "SumAndProduct",
+            "projectName": "group6_alqaeda_c6f9bef9"
+        },
+        {
+            "type": "java",
             "name": "EvenAndGreaterThan20",
             "request": "launch",
             "mainClass": "EvenAndGreaterThan20",
