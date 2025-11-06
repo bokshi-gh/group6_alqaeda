@@ -5,4 +5,4 @@ This repository consists of tasks submited by individual members of [group6_Al-Q
 - Badge: S1-s2-AI_38
 - Year/Semester: 1st Year, 2nd Semester
 - Course/Module: ST4003CMD-Programming: Professional Practice
-- Lecturer: Prabisha Khadka
+- Lecturer: Prabisha Khadka [[LinkedIn](https://np.linkedin.com/in/prabisha-khadka-22424b1bb)]
