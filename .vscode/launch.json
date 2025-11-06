@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EvenAndGreaterThan20",
+            "request": "launch",
+            "mainClass": "EvenAndGreaterThan20",
+            "projectName": "group6_alqaeda_c6f9bef9"
+        },
+        {
+            "type": "java",
             "name": "FizzBuzz",
             "request": "launch",
             "mainClass": "FizzBuzz",
