@@ -9,6 +9,6 @@ This repository consists of tasks submited by individual members of [group6_Al-Q
 
 **NOTICE**: MF! don't push the commits on the main branch, commit it on your own branch & push it to main branch.
 <br>
-#al-qaedaforlife
-#boostterrorism
+#al-qaedaforlife<br>
+#boostterrorism<br>
 #jaybinladen
