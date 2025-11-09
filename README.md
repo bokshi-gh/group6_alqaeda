@@ -7,4 +7,8 @@ This repository consists of tasks submited by individual members of [group6_Al-Q
 - **Course/Module:** ST4003CMD-Programming: Professional Practice
 - **Lecturer:** Prabisha Khadka [[LinkedIn](https://np.linkedin.com/in/prabisha-khadka-22424b1bb)]
 
-**NOTICE**: MF! don't push the commits on the main branch, push it on your own branch.
+**NOTICE**: MF! don't push the commits on the main branch, commit it on your own branch & push it to main branch.
+<br>
+#al-qaedaforlife
+#boostterrorism
+#jaybinladen
